@@ -1,0 +1,99 @@
+.sidebar{
+
+width:270px;
+height:100vh;
+background:#123458;
+color:white;
+
+display:flex;
+flex-direction:column;
+
+padding:30px 20px;
+
+position:fixed;
+left:0;
+top:0;
+overflow-y:auto;
+
+box-shadow:4px 0 15px rgba(0,0,0,.2);
+    overflow-y:auto;
+
+
+}
+
+.logo{
+    font-size:28px;
+    font-weight:bold;
+    text-align:center;
+    color:white;
+    margin-bottom:40px;
+    line-height:1.2;
+}
+
+.menu{
+
+text-decoration:none;
+color:white;
+
+padding:15px;
+
+margin:8px 0;
+
+border-radius:10px;
+
+transition:.3s;
+
+font-size:18px;
+
+}
+
+.menu:hover{
+
+background:#1f5d9b;
+
+}
+
+.logout{
+
+margin-top:auto;
+
+background:#c62828;
+
+text-align:center;
+
+}
+.logout-btn{
+
+    margin-top:auto;
+
+    width:100%;
+
+    padding:15px;
+
+    background:#d32f2f;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+}
+
+.logout-btn:hover{
+
+    background:#b71c1c;
+
+}
+
+.logout-btn:hover{
+
+    background:#b71c1c;
+
+}

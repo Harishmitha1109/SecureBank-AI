@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    font-family:Segoe UI,sans-serif;
+    background:linear-gradient(135deg,#0A3D62,#3C91E6);
+}
+
+.register-container{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.register-card{
+    width:430px;
+    max-width:90%;
+    background:white;
+    border-radius:20px;
+    padding:40px;
+    text-align:center;
+    box-shadow:0 15px 40px rgba(0,0,0,.25);
+}
+
+.logo{
+    font-size:55px;
+}
+
+.register-card h1{
+    color:#0A3D62;
+}
+
+.register-card h3{
+    color:#3C91E6;
+    margin-bottom:30px;
+}
+
+.register-card input{
+    width:100%;
+    padding:14px;
+    margin-bottom:18px;
+    border-radius:10px;
+    border:1px solid #ccc;
+    font-size:15px;
+    box-sizing:border-box;
+}
+
+.register-card button{
+    width:100%;
+    padding:14px;
+    border:none;
+    border-radius:10px;
+    background:#0A3D62;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.register-card button:hover{
+    background:#12598e;
+}
+
+.login-link{
+    margin-top:20px;
+    color:#666;
+    cursor:pointer;
+}
