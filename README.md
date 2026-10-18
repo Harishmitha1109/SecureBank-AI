@@ -119,7 +119,34 @@ The frontend requires three consecutive High-risk detections before triggering i
 - MongoDB Compass
 
 ---
+## 📸 Application Screenshots
 
+### 1. Welcome Page
+![SecureBank AI Welcome Page](screenshots/WelcomePage.png)
+
+### 2. Splash Screen
+![SecureBank AI Splash Screen](screenshots/splashScreen.png)
+
+### 3. Login Page
+![SecureBank AI Login Page](screenshots/LoginPage.png)
+
+### 4. Registration Page
+![SecureBank AI Registration Page](screenshots/RegisterPage.png)
+
+### 5. Banking Dashboard
+![SecureBank AI Dashboard](screenshots/DashboardPage.png)
+
+### 6. Behavioral Risk Analysis
+![SecureBank AI Risk Behaviour](screenshots/RiskBehaviour.png)
+
+### 7. Transaction Page
+![SecureBank AI Transaction Page](screenshots/TransactionPage.png)
+
+### 8. Transfer Page
+![SecureBank AI Transfer Page](screenshots/TransferPage.png)
+
+### 9. Suspicious Activity and Session Termination
+![SecureBank AI Termination Alert](screenshots/Termination.png)
 ## 📁 Project Structure
 
 ```text
